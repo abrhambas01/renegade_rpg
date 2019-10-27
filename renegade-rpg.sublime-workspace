@@ -1,0 +1,940 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clas",
+				"class_eval\tfunc"
+			],
+			[
+				"do",
+				"do"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 199,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"isntall ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"markdown previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"isntall pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/www/php-projects/txt-based-renegade-rpg",
+		"/E/www/php-projects/txt-based-renegade-rpg/core"
+	],
+	"file_history":
+	[
+		"/E/www/php-projects/txt-based-renegade-rpg/core/init.php",
+		"/E/www/php-projects/txt-based-renegade-rpg/config.php",
+		"/E/www/php-projects/txt-based-renegade-rpg/renegade-rpg.sublime-project",
+		"/E/www/php-projects/txt-based-renegade-rpg/core/helpers.php",
+		"/C/laragon/www/renegade-apiv2/database/migrations/2019_10_05_043102_create_weapons_table.php",
+		"/C/laragon/www/renegade-apiv2/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php",
+		"/C/laragon/www/renegade-apiv2/database/seeds/renegade.md",
+		"/C/laragon/www/renegade-apiv2/database/migrations/2019_07_26_011146_factions.php",
+		"/C/laragon/www/renegade-apiv2/.editorconfig",
+		"/C/laragon/www/renegade-apiv2/.env",
+		"/C/laragon/www/renegade-apiv2/database/seeds/DatabaseSeeder.php",
+		"/C/laragon/www/renegade-api/node_modules/webpack-dev-server/lib/utils/routes.js",
+		"/C/laragon/www/renegade-api/database/migrations/2019_08_10_085700_create_campaigns_table.php",
+		"/E/www/php-projects/txt-based-renegade-rpg/controllers/app/walkthroughs/index.php",
+		"/E/www/php-projects/txt-based-renegade-rpg/controllers/app/walkthroughs/create.php",
+		"/E/www/php-projects/txt-based-renegade-rpg/views/index.view.php",
+		"/E/www/php-projects/txt-based-renegade-rpg/core/util.php",
+		"/E/www/php-projects/txt-based-renegade-rpg/views/partials/dashboard/nav.php",
+		"/E/www/php-projects/txt-based-renegade-rpg/routes.php",
+		"/E/www/php-projects/txt-based-renegade-rpg/core/database/Account.php",
+		"/E/www/php-projects/txt-based-renegade-rpg/controllers/process-login.php",
+		"/E/www/php-projects/txt-based-renegade-rpg/controllers/account/setup-account.php",
+		"/E/www/php-projects/txt-based-renegade-rpg/controllers/add-name.php",
+		"/E/Python-Scripts/emind/create.php",
+		"/C/'",
+		"/E/www/php-projects/trix-file-upload/package.json",
+		"/E/www/php-projects/trix-file-upload/azure-pipelines.yml",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-20/config.php",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-20/core/bootstrap.php",
+		"/E/www/php-projects/murach-php-mysql/util/images.php",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-16/controllers/index.php",
+		"/E/www/php-projects/project-renegade/core/functions/check_login_2.php",
+		"/E/www/php-projects/murach-php-mysql/view/sidebar_admin.php",
+		"/E/www/php-projects/murach-php-mysql/view/sidebar.php",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-16/views/index.view.php",
+		"/E/www/php-projects/murach-php-mysql/account/index.php",
+		"/E/www/php-projects/murach-php-mysql/admin/account/index.php",
+		"/E/www/php-projects/murach-php-mysql/model/address_db.php",
+		"/E/www/php-projects/project-renegade/register.php",
+		"/E/www/php-projects/murach-php-mysql/model/customer_db.php",
+		"/E/www/php-projects/project-renegade/core/functions/db_methods.php",
+		"/E/www/php-projects/project-renegade/core/functions/send_mail.php",
+		"/E/www/php-projects/php-procedural/README.md",
+		"/E/www/php-projects/php-procedural/register.php",
+		"/E/www/php-projects/project-renegade/solid-principles.md",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-20/index.php",
+		"/E/www/php-projects/Renegade-Game/core/database/QueryBuilder.php",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-20/core/database/QueryBuilder.php",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-20/core/Router.php",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-20/routes.php",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-20/core/database/Connection.php",
+		"/E/www/php-projects/pro-php-jquery-16/code files/ch05/public/assets/inc/process.inc.php",
+		"/E/www/php-projects/project-renegade/core/functions/helpers.php",
+		"/E/www/php-projects/pro-php-jquery-16/code files/ch04/sys/class/class.calendar.inc.php",
+		"/E/www/php-projects/PHP-7-Programming-Cookbook/Chapter 12/chap_12_session_protection_simple_login.php",
+		"/E/www/php-projects/pro-php-jquery-16/code files/ch09/public/login.php",
+		"/E/www/php-projects/pro-php-jquery-16/code files/ch04/public/assets/common/header.inc.php",
+		"/E/www/php-projects/pro-php-jquery-16/code files/ch04/sys/config/db-cred.inc.php",
+		"/E/www/php-projects/exp-php-mysql/EPMADD_3/MyApp/stage/login.php",
+		"/E/www/php-projects/PHP-7-Programming-Cookbook/Chapter 12/login.php",
+		"/E/www/php-projects/PHP-7-Programming-Cookbook/Chapter 12/simple-login.php",
+		"/E/www/php-projects/php-procedural/includes/login.php",
+		"/E/www/php-projects/project-renegade/register-account.php",
+		"/E/www/php-projects/project-renegade/core/model/account.php",
+		"/E/www/php-projects/project-renegade/browse-missions.php",
+		"/E/www/php-projects/project-renegade/core/functions/init.php",
+		"/E/www/php-projects/project-renegade/core/model/login_db.php",
+		"/E/www/php-projects/project-renegade/core/helpers.php",
+		"/E/www/php-projects/project-renegade/core/functions/login_checker.php",
+		"/E/www/php-projects/project-renegade/core/classes/fields.php",
+		"/E/www/php-projects/project-renegade/core/functions/validate.php",
+		"/E/www/php-projects/project-renegade/core/functions/connect.php",
+		"/E/www/php-projects/project-renegade/login.php",
+		"/E/www/php-projects/php-procedural/includes/db.php",
+		"/E/www/php-projects/project-renegade/views/partials/header.php",
+		"/E/www/php-projects/project-renegade/app.rb",
+		"/C/Users/hp/Desktop/test-shoes.rb",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-20/controllers/add-name.php",
+		"/E/www/php-projects/Renegade-Game/core/helpers.php",
+		"/E/www/php-projects/project-renegade/base.view.php",
+		"/E/www/php-projects/project-renegade/core/views/index.view.php",
+		"/C/laragon/www/adspresso/public/css/app.css",
+		"/C/Users/hp/Documents/user-aliases.cmd",
+		"/E/www/php-projects/murach-php-mysql/model/database.php",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-16/core/bootstrap.php",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-16/views/about.view.php",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-16/views/partials/head.php",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-16/views/partials/nav.php",
+		"/E/www/php-projects/udemy-oop-php/admin/includes/init.php",
+		"/E/www/php-projects/project-renegade/public/css/main.css",
+		"/E/www/php-projects/udemy-oop-php/includes/header.php",
+		"/E/www/php-projects/exp-php-mysql/EPMADD_7/lib/fpdf17/doc/header.htm",
+		"/C/laragon/bin/cmder/config/user_aliases.cmd",
+		"/C/Users/hp/Documents/user_aliases_2.cmd",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-16/config.php",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-20/controllers/index.php",
+		"/E/www/php-projects/The-PHP-Practitioner-Episode-20/controllers/about-culture.php",
+		"/E/www/php-projects/murach-php-mysql/cart/cart_view.php",
+		"/E/www/php-projects/murach-php-mysql/view/header.php",
+		"/E/www/php-projects/murach-php-mysql/model/cart.php",
+		"/E/www/php-projects/PHP-7-Programming-Cookbook/Chapter 02/chap_02_simple_ast_example.php",
+		"/C/laragon/www/wp-learning/wordpress/wp-content/themes/ghetto/header.php",
+		"/E/www/php-projects/murach-php-mysql/index.php",
+		"/C/laragon/www/wp-learning/wordpress/wp-content/themes/ghetto/index.php",
+		"/C/laragon/www/wp-learning/wordpress/wp-content/themes/ghetto/style.css",
+		"/E/www/php-projects/udemy-oop-php/admin/index.php",
+		"/E/www/php-projects/murach-php-mysql/admin/account/account_login.php",
+		"/E/www/php-projects/murach-php-mysql/model/admin_db.php",
+		"/E/www/php-projects/exp-php-mysql/EPMADD_6/login.php",
+		"/E/www/php-projects/exp-php-mysql/EPMADD_7/login.php",
+		"/E/www/php-projects/pro-php-jquery-16/code files/ch05/public/view.php",
+		"/E/www/php-projects/pro-php-jquery-16/code files/ch06/public/index.php",
+		"/E/www/php-projects/udemy-oop-php/admin/login.php",
+		"/E/www/php-projects/murach-php-mysql/catalog/index.php",
+		"/E/www/php-projects/pro-php-jquery-16/code files/ch03/tst01.php",
+		"/E/www/php-projects/Renegade-Game/composer.json",
+		"/E/www/php-projects/murach-php-mysql/model/validate.php",
+		"/E/www/php-projects/udemy-oop-php/admin/includes/config.php",
+		"/E/www/php-projects/udemy-oop-php/admin/includes/database.php",
+		"/E/www/php-projects/udemy-oop-php/admin/includes/user.php",
+		"/E/www/php-projects/udemy-oop-php/admin/includes/session.php",
+		"/E/www/php-projects/murach-php-mysql/checkout/index.php",
+		"/E/www/php-projects/murach-php-mysql/util/main.php",
+		"/E/www/php-projects/murach-php-mysql/util/secure_conn.php",
+		"/E/www/php-projects/murach-php-mysql/util/tags.php",
+		"/E/www/php-projects/murach-php-mysql/model/order_db.php",
+		"/E/www/php-projects/murach-php-mysql/.phpintel/a16df98b68fe56d078968908daef990d",
+		"/E/www/php-projects/murach-php-mysql/model/fields.php"
+	],
+	"find":
+	{
+		"height": 75.0
+	},
+	"find_in_files":
+	{
+		"height": 272.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"SL.527.region_keys":
+							[
+							],
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "php"
+							},
+							"markdonw_live_preview_last_run": 1570428124.01,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 258.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/php.sublime-build",
+	"project": "renegade-rpg.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"config.ph",
+				"config.php"
+			],
+			[
+				"renegade",
+				"renegade-rpg.sublime-project"
+			],
+			[
+				"core helprs",
+				"core\\helpers.php"
+			],
+			[
+				"rouets.ph",
+				"vendor\\laravel\\lumen-framework\\src\\Concerns\\RoutesRequests.php"
+			],
+			[
+				"reengadese",
+				"database\\seeds\\RenegadeSeeder.php"
+			],
+			[
+				".env",
+				".env.example"
+			],
+			[
+				"routes.",
+				"node_modules\\webpack-dev-server\\lib\\utils\\routes.js"
+			],
+			[
+				"account.ph",
+				"core\\database\\Account.php"
+			],
+			[
+				"process-logi",
+				"controllers\\process-login.php"
+			],
+			[
+				"routes.p",
+				"routes.php"
+			],
+			[
+				"index.view.p",
+				"views\\index.view.php"
+			],
+			[
+				"setup-acc",
+				"controllers\\account\\setup-account.php"
+			],
+			[
+				"setupaccou",
+				"controllers\\account\\setup-account.php"
+			],
+			[
+				"rute.ph",
+				"routes.php"
+			],
+			[
+				"nav.h",
+				"views\\partials\\dashboard\\nav.php"
+			],
+			[
+				"helpers.",
+				"core\\helpers.php"
+			],
+			[
+				"helpers",
+				"core\\helpers.php"
+			],
+			[
+				"upload im",
+				"trix-file-upload\\azure-pipelines.yml"
+			],
+			[
+				"index.view",
+				"The-PHP-Practitioner-Episode-16\\views\\index.view.php"
+			],
+			[
+				"customer_db",
+				"murach-php-mysql\\model\\customer_db.php"
+			],
+			[
+				"send_mail",
+				"project-renegade\\core\\functions\\send_mail.php"
+			],
+			[
+				"solid-",
+				"project-renegade\\solid-principles.md"
+			],
+			[
+				"solid-p",
+				"project-renegade\\solid-principles.md"
+			],
+			[
+				"querybuilder",
+				"Renegade-Game\\core\\database\\QueryBuilder.php"
+			],
+			[
+				"querybui",
+				"Renegade-Game\\core\\database\\QueryBuilder.php"
+			],
+			[
+				"core router.ph",
+				"The-PHP-Practitioner-Episode-20\\core\\Router.php"
+			],
+			[
+				"bootstarp",
+				"The-PHP-Practitioner-Episode-20\\core\\bootstrap.php"
+			],
+			[
+				"connection.",
+				"The-PHP-Practitioner-Episode-20\\core\\database\\Connection.php"
+			],
+			[
+				"header.inc.ph",
+				"pro-php-jquery-16\\code files\\ch04\\public\\assets\\common\\header.inc.php"
+			],
+			[
+				"db-cred",
+				"pro-php-jquery-16\\code files\\ch04\\sys\\config\\db-cred.inc.php"
+			],
+			[
+				"process.inc.ph",
+				"pro-php-jquery-16\\code files\\ch05\\public\\assets\\inc\\process.inc.php"
+			],
+			[
+				"lgoin.php",
+				"pro-php-jquery-16\\code files\\ch09\\public\\login.php"
+			],
+			[
+				"login.php",
+				"exp-php-mysql\\EPMADD_3\\MyApp\\stage\\login.php"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"register.php",
+				"project-renegade\\register-account.php"
+			],
+			[
+				"register.ph",
+				"project-renegade\\register.php"
+			],
+			[
+				"login.php program",
+				"PHP-7-Programming-Cookbook\\Chapter 12\\chap_12_session_protection_simple_login.php"
+			],
+			[
+				"login.php pro-",
+				"pro-php-jquery-16\\code files\\ch09\\public\\login.php"
+			],
+			[
+				"login.ph",
+				"PHP-7-Programming-Cookbook\\Chapter 12\\simple-login.php"
+			],
+			[
+				"login.pph",
+				"PHP-7-Programming-Cookbook\\Chapter 12\\login.php"
+			],
+			[
+				"browse",
+				"project-renegade\\browse-missions.php"
+			],
+			[
+				"login_d",
+				"project-renegade\\core\\model\\login_db.php"
+			],
+			[
+				"helpers.p",
+				"project-renegade\\core\\helpers.php"
+			],
+			[
+				"account.",
+				"project-renegade\\core\\model\\account.php"
+			],
+			[
+				"db.ph",
+				"php-procedural\\includes\\db.php"
+			],
+			[
+				"db_methods",
+				"project-renegade\\core\\functions\\db_methods.php"
+			],
+			[
+				"init.ph",
+				"project-renegade\\core\\functions\\init.php"
+			],
+			[
+				"partials ehader.ph",
+				"project-renegade\\views\\partials\\header.php"
+			],
+			[
+				"accunt.",
+				"project-renegade\\register-account.php"
+			],
+			[
+				"validate.p",
+				"project-renegade\\core\\functions\\validate.php"
+			],
+			[
+				"fields.ph",
+				"project-renegade\\core\\classes\\fields.php"
+			],
+			[
+				"login_checke",
+				"project-renegade\\core\\functions\\login_checker.php"
+			],
+			[
+				"helpers.ph",
+				"project-renegade\\core\\helpers.php"
+			],
+			[
+				"login_db",
+				"project-renegade\\core\\model\\login_db.php"
+			],
+			[
+				"ap.rb",
+				"project-renegade\\app.rb"
+			],
+			[
+				"account.php",
+				"project-renegade\\core\\model\\account.php"
+			],
+			[
+				"browse-miss",
+				"project-renegade\\browse-missions.php"
+			],
+			[
+				"check_login",
+				"project-renegade\\core\\functions\\check_login_2.php"
+			],
+			[
+				"core helpers.",
+				"Renegade-Game\\core\\helpers.php"
+			],
+			[
+				"init.p",
+				"project-renegade\\core\\functions\\init.php"
+			],
+			[
+				"logi_chek",
+				"project-renegade\\core\\functions\\login_checker.php"
+			],
+			[
+				"inde.view.p",
+				"project-renegade\\core\\views\\index.view.php"
+			],
+			[
+				"indx.view.h",
+				"The-PHP-Practitioner-Episode-16\\views\\index.view.php"
+			],
+			[
+				"base.view.",
+				"project-renegade\\base.view.php"
+			],
+			[
+				"renegade login.ph",
+				"project-renegade\\login.php"
+			],
+			[
+				"nav.ph",
+				"The-PHP-Practitioner-Episode-16\\views\\partials\\nav.php"
+			],
+			[
+				"head.ph",
+				"The-PHP-Practitioner-Episode-16\\views\\partials\\head.php"
+			],
+			[
+				"partials header.",
+				"project-renegade\\views\\partials\\header.php"
+			],
+			[
+				"header.",
+				"udemy-oop-php\\includes\\header.php"
+			],
+			[
+				"haeder.h",
+				"exp-php-mysql\\EPMADD_7\\lib\\fpdf17\\doc\\header.htm"
+			],
+			[
+				"base.view",
+				"project-renegade\\base.view.php"
+			],
+			[
+				"db.php",
+				"murach-php-mysql\\model\\database.php"
+			],
+			[
+				"indx.view.",
+				"The-PHP-Practitioner-Episode-16\\views\\index.view.php"
+			],
+			[
+				"idex.view.h",
+				"The-PHP-Practitioner-Episode-16\\views\\index.view.php"
+			],
+			[
+				"header.ph",
+				"udemy-oop-php\\includes\\header.php"
+			],
+			[
+				"car_view.ph",
+				"murach-php-mysql\\cart\\cart_view.php"
+			],
+			[
+				"adm_db",
+				"murach-php-mysql\\model\\admin_db.php"
+			],
+			[
+				"murahc login.",
+				"murach-php-mysql\\admin\\account\\account_login.php"
+			],
+			[
+				"index.ph",
+				"murach-php-mysql\\account\\index.php"
+			],
+			[
+				"index.php",
+				"murach-php-mysql\\index.php"
+			],
+			[
+				"admin index.",
+				"udemy-oop-php\\admin\\index.php"
+			],
+			[
+				"murah login.php",
+				"murach-php-mysql\\admin\\account\\account_login.php"
+			],
+			[
+				"pocess.inc.ph",
+				"pro-php-jquery-16\\code files\\ch05\\public\\assets\\inc\\process.inc.php"
+			],
+			[
+				"php-7-programming login.h",
+				"PHP-7-Programming-Cookbook\\Chapter 12\\simple-login.php"
+			],
+			[
+				"admin_db.ph",
+				"murach-php-mysql\\model\\admin_db.php"
+			],
+			[
+				"login.ph murach",
+				"murach-php-mysql\\catalog\\index.php"
+			],
+			[
+				"login.h",
+				"udemy-oop-php\\admin\\login.php"
+			],
+			[
+				"admin_db.p",
+				"murach-php-mysql\\model\\admin_db.php"
+			],
+			[
+				"validate.ph",
+				"murach-php-mysql\\model\\validate.php"
+			],
+			[
+				"admin_db",
+				"murach-php-mysql\\model\\admin_db.php"
+			],
+			[
+				"admin_lo",
+				"murach-php-mysql\\admin\\account\\account_login.php"
+			],
+			[
+				"murach login.ph",
+				"murach-php-mysql\\admin\\account\\account_login.php"
+			],
+			[
+				"session.ph",
+				"udemy-oop-php\\admin\\includes\\session.php"
+			],
+			[
+				"user.",
+				"udemy-oop-php\\admin\\includes\\user.php"
+			],
+			[
+				"database.ph",
+				"udemy-oop-php\\admin\\includes\\database.php"
+			],
+			[
+				"util main.p",
+				"murach-php-mysql\\util\\main.php"
+			],
+			[
+				"checkout.ph",
+				"murach-php-mysql\\checkout\\index.php"
+			],
+			[
+				"util tags.ph",
+				"murach-php-mysql\\util\\tags.php"
+			],
+			[
+				"util main.ph",
+				"murach-php-mysql\\util\\main.php"
+			],
+			[
+				"fields.p",
+				"murach-php-mysql\\model\\fields.php"
+			],
+			[
+				"secure_co",
+				"murach-php-mysql\\util\\secure_conn.php"
+			],
+			[
+				"address_db",
+				"murach-php-mysql\\model\\address_db.php"
+			],
+			[
+				"scure_con",
+				"murach-php-mysql\\util\\secure_conn.php"
+			],
+			[
+				"login.php murach",
+				"murach-php-mysql\\catalog\\index.php"
+			],
+			[
+				"lgoin.php murach",
+				"murach-php-mysql\\account\\account_login_register.php"
+			],
+			[
+				"murach login.p",
+				"murach-php-mysql\\admin\\account\\account_login.php"
+			],
+			[
+				"validae.ph",
+				"murach-php-mysql\\model\\validate.php"
+			],
+			[
+				"admin_head",
+				"php-procedural\\admin\\includes\\admin_header.php"
+			],
+			[
+				"send_",
+				"PHP-7-Programming-Cookbook\\Chapter 05\\chap_05_orm_secondary_lookups.php"
+			],
+			[
+				"util main.",
+				"murach-php-mysql\\util\\main.php"
+			],
+			[
+				"FIELDS.PH",
+				"murach-php-mysql\\model\\fields.php"
+			],
+			[
+				"VALITE",
+				"murach-php-mysql\\model\\validate.php"
+			],
+			[
+				"util tags.",
+				"murach-php-mysql\\util\\tags.php"
+			],
+			[
+				"mai.ph",
+				"murach-php-mysql\\util\\main.php"
+			],
+			[
+				"validatephp",
+				"murach-php-mysql\\model\\validate.php"
+			],
+			[
+				"model validate.",
+				"murach-php-mysql\\model\\validate.php"
+			],
+			[
+				"user.pp",
+				"udemy-oop-php\\admin\\includes\\user.php"
+			],
+			[
+				"init.php",
+				"udemy-oop-php\\admin\\includes\\init.php"
+			],
+			[
+				"includes login.",
+				"php-procedural\\includes\\login.php"
+			],
+			[
+				"logi.ph",
+				"exp-php-mysql\\EPMADD_5\\login.php"
+			],
+			[
+				"validaet.ph",
+				"murach-php-mysql\\model\\validate.php"
+			],
+			[
+				"fields.",
+				"murach-php-mysql\\model\\fields.php"
+			],
+			[
+				"secure_con",
+				"murach-php-mysql\\util\\secure_conn.php"
+			],
+			[
+				"sidebar_admi",
+				"murach-php-mysql\\view\\sidebar_admin.php"
+			],
+			[
+				"hader.ph",
+				"murach-php-mysql\\view\\header.php"
+			],
+			[
+				"murach login.",
+				"murach-php-mysql\\admin\\account\\account_login.php"
+			],
+			[
+				"session.",
+				"udemy-oop-php\\admin\\includes\\session.php"
+			],
+			[
+				"login",
+				"PHP-7-Programming-Cookbook\\Chapter 12\\simple-login.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"restore_index":
+			{
+				"527":
+				{
+					"group": 0,
+					"index": 0
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 440.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
