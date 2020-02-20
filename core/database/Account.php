@@ -1,9 +1,7 @@
 <?php
 class Account { 
 	protected $pdo ; 
-
-	public $user_is_logged_on ;
-
+	public $user_is_logged_on ;	
 	public function __construct($pdo){
 		$this->pdo = $pdo;
 		$this->user_is_logged_on = false ; 
@@ -45,7 +43,6 @@ class Account {
 
 		// -> the hashed password of the user's password input.
 		$hashed_password = password_hash($password, PASSWORD_DEFAULT);	
-		
 		$match_checker = password_verify($password, $hashed_password);
 			// sql query that returns password of the user with an email or username of $pin 
 		
@@ -78,7 +75,6 @@ class Account {
   			// redirect('')
 			$this->user_is_logged_on = false ; 
 		}
-
 	}
 
 
@@ -109,11 +105,11 @@ class Account {
 
 	/*returns 0 or 1 if there's a match...*/
 	public static function check_if_the_email_is_currently_registered($pin){
-// returns 1 if there's a matched email
-		$sql = 'SELECT COUNT(*) FROM users WHERE email = :pin';		 
+		// returns 1 if there's a matched email
+		$sql = 'SELECT COUNT(*) FROM users WHERE email = :pin';
 		$statement = $this->pdo->prepare($sql);		
-		var_dump($statement);	
 		$statement->execute();
+		return $statement->fetchAll(PDO::FETCH_CLASS) ; 
 	}
 
 	public function redirect($path){

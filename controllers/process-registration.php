@@ -1,25 +1,26 @@
 <?php 
 // if user tried to register 
 if(isset($_POST['register'])){
+	// print_r($_POST);
+
 	$email = $_POST['email'];
 	$full_name = $_POST['full_name'];	
-	$pwd = $_POST['password'];
-	
+	$password = $_POST['password'];
 	$confirm = $_POST['confirmation'];
 	
-	if ( $pwd != $confirm){
+	if ( $password != $confirm){
 		// redirect('register');
-		print "not the same";
 		redirect('register');
+		die();
 	}
 	
-	$pin = filter_input(INPUT_POST, 'pin');
-
+	$pin = filter_input(INPUT_POST, 'email');
 	$field = filter_var($pin, FILTER_VALIDATE_EMAIL) ? 'email' : 'username';	
-	
 	$password = filter_input(INPUT_POST, 'password');
 
 	/*** Try to validate the request if the pin is ok..***/
+	// echo $pin ." " .$field ." " .$password; 
+
 	$app['user']->attempt_registration($pin, $field, $password);  
 }
 

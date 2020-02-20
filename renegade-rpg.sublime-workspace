@@ -19,8 +19,16 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 199,
+				"buffer_size": 198,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "core/init.php",
+			"settings":
+			{
+				"buffer_size": 709,
 				"line_ending": "Windows"
 			}
 		}
@@ -252,7 +260,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -261,20 +269,26 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 199,
+						"buffer_size": 198,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								198,
-								198
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"SL.527.region_keys":
+							[
+							],
+							"SL.609.region_keys":
+							[
+							],
+							"SL.623.region_keys":
 							[
 							],
 							"WordCount":
@@ -292,6 +306,45 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "core/init.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.625.region_keys":
+							[
+							],
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "php"
+							},
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
 					"type": "text"
 				}
@@ -300,7 +353,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 37.0
+		"height": 38.0
 	},
 	"input":
 	{
@@ -349,7 +402,7 @@
 	"project": "renegade-rpg.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 72.0
 	},
 	"save_all_on_build": true,
 	"select_file":

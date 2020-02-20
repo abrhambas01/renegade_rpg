@@ -8,7 +8,6 @@ function view($view, $data=[]){
 
 
 /*te name speaks for itself*/
-
 function checks_if_class_does_exist($class_name)
 {
 	

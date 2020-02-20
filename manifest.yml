@@ -1,0 +1,7 @@
+---
+applications:
+    - name: renegade_rpg
+      buildpack: php_buildpack
+      memory: 128M
+      instances: 1
+      host: renegade_rpg

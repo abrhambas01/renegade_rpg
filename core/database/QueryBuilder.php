@@ -18,14 +18,15 @@ class QueryBuilder {
         $statement->fetch(PDO::FETCH_CLASS);
     }
 
-    public function user_id()
-    {
+
+
+    public function user_id(){
         $user_id = $_SESSION['id'];
         $query = "SELECT id  from users where id = {$user_id}";
     }
 
     public function selectAll($table){
-        $statement = $this->pdo->prepare("select * from {$table}");
+            $statement = $this->pdo->prepare("select * from {$table}");
         $statement->execute();
         return $statement->fetchAll(PDO::FETCH_CLASS);
     }

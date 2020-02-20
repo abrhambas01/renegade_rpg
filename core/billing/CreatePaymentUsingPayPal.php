@@ -9,7 +9,7 @@ use PayPal\Api\Payer;
 use PayPal\Api\Payment;
 use PayPal\Api\RedirectUrls;
 use PayPal\Api\Transaction;
-
+	
 
 $payer = new Payer();
 $payer->setPaymentMethod("paypal");
